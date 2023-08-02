@@ -79,14 +79,14 @@ def main():
         print("\nAttendance Management System Menu:")
         print("1. Add Student")
         print("2. Mark Attendance")
-        print("3. View Student Attendance")
+        print("3. View  Attendance")
         print("4. Generate Attendance Report")
         print("5. Exit")
 
         choice = int(input("Enter your choice (1 to 5): "))
 
         if choice == 1:
-            student_id = input("Enter the student ID: ")
+            student_id = input("Enter  student ID: ")
             student_name = input("Enter the student name: ")
             attendance_system.add_student(student_id, student_name)
             print(f"Student '{student_name}' with ID '{student_id}' added successfully.")
