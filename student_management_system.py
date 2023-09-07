@@ -75,8 +75,8 @@ Student Management System
 4. Delete Student
 5. Exit
 Enter your choice: 1
-Enter student roll number: 35
-Enter student name: preetish
+Enter student roll number: 31
+Enter student name: Puneet
 Enter student marks for Math: 70
 Enter student marks for Physics: 96
 Student with roll number 35 added successfully!
